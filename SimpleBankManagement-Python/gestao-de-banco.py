@@ -102,5 +102,5 @@ while True:
     else:
         time.sleep(0.5)
         print("")
-        print("Resposta inválida...") #Aponta resposta inválida e reinicia o Menu
+        print("Resposta inválida...") #Mostra "Resposta Inválida" e reinicia o Menu
     

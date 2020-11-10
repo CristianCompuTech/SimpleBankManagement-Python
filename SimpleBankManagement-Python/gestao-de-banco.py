@@ -70,7 +70,7 @@ while True:
             time.sleep(0.5)
             print("")
             valor_dep = int(input("Quanto deseja depositar? ")) #Valor de depósito desejado
-            conta1.depositar(valor_dep) #Chama a função de sacar
+            conta1.depositar(valor_dep) #Chama a função de depositar
 
         except Exception as error_dep:
             time.sleep(0.5)
